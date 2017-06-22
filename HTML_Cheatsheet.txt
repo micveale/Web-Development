@@ -1,0 +1,17 @@
+Tables
+
+<table>											Table Start
+	<thead>										Table Header Section Start
+		<tr>									Table Row Start
+			<th>Column Header 1</th>			Table Column Header 1
+			<th>Column Header 2</th>			Table Column Header 2
+		</tr>
+	</thead>									Table Head End
+
+	<tbody>										Table Body Start
+		<tr>									Table Row Start
+			<td>Box 1 Content</td>				Table Element 1
+			<td>Box 2 Content</td>				Table Element 2
+		</tr>									Table Row End
+	</tbody>									Table Body End
+</table>										Table End
