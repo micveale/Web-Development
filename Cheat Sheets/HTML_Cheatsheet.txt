@@ -1,0 +1,50 @@
+HTML
+
+Comments- <!--Comments go here in this archaic bit-->
+	ps hit Command / on highlighted text in sublime
+
+
+
+
+
+
+
+In-Line Elements
+
+
+	<strong></strong> over <b></b> for bolding text
+	<em></em> over <i></i> for italicizing
+
+
+
+	LISTS
+
+
+		Ordered
+			<ol>
+				<li></li>
+				<li></li>
+			</ol>
+
+
+		Unordered
+			<ul>
+				<li></li>
+				<li></li>
+			</ul>
+
+
+
+	Divs
+		<div></div>
+
+		*Own-Line Element*
+		 -aka it has a functional line break before and after div tags
+
+
+
+	Spans
+		<span></span>
+
+		*In-Line Element*
+		 -aka it DOES NOT break lines around its containers
